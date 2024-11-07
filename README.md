@@ -26,8 +26,3 @@ Hi there, my name is Muhammad Nashrulloh Mukti, 26 y/o. Interest about web devel
 <code><img height="25" src="https://cdn.svgporn.com/logos/materializecss.svg"></code>
 <code><img height="25" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
 <code><img height="25" src="https://cdn.svgporn.com/logos/firebase.svg"></code>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=nashrullohmuktii&show_icons=true" height=180 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashrullohmuktii&layout=compact" height=180 />
-</p>
